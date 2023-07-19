@@ -23,35 +23,35 @@ const wines = [
   },
   {
     title: 'Irish Guinness',
-    price: '$26',
+    price: '$10',
     tags: 'IE | 750 ml',
   },
 ];
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
-    price: '$20',
+    title: 'Aperol Spritz',
+    price: '$14',
     tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
   },
   {
     title: "Dark 'N' Stormy",
-    price: '$16',
+    price: '$15',
     tags: 'Dark rum | Ginger beer | Slice of lime',
   },
   {
     title: 'Daiquiri',
-    price: '$10',
+    price: '$12',
     tags: 'Rum | Citrus juice | Sugar',
   },
   {
     title: 'Old Fashioned',
-    price: '$31',
+    price: '$14',
     tags: 'Bourbon | Brown sugar | Angostura Bitters',
   },
   {
     title: 'Negroni',
-    price: '$26',
+    price: '$13',
     tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
   },
 ];
